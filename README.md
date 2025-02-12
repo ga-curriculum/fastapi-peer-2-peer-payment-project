@@ -29,15 +29,17 @@ Estimated completion time is around **15 hours**.
 
 ### Content
 
-[Project Requirements Google Sheets](https://docs.google.com/spreadsheets/d/1Uo3dR98yTVRCbCGmyusiYHmw3e4uniat9w06jK4OSKg/edit?usp=sharing)
+[Project Requirements Google Sheets](https://docs.google.com/spreadsheets/d/1CuV5ZTs0oHILKzqBApV6-3fcv36NDvciBEGJpqM9Lns/edit?usp=sharing)
 
 ### Prerequisites
 
-- Students should be familiar with RESTful APIs, Express.js, and Jest for Testing.
+- Working knowledge of Python and FastAPI.
+- Understanding of HTTP, RESTful APIs, and token based authentication/authorization concepts.
+- Experience with SQLAlchemy, unit testing with Pytest, and using pip for managing dependencies.
 
 ### Course landing pages
 
-- [MEA - Modern Engineering](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/fastapi-peer-2-peer-payment-project/canvas-landing-pages/mea.html)
+- [APD - Advanced Python for Developers](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/fastapi-peer-2-peer-payment-project/canvas-landing-pages/apd.html)
 - [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/fastapi-peer-2-peer-payment-project/canvas-landing-pages/fallback.html)
 
 ### Resources
