@@ -26,7 +26,7 @@ This project will combine the core concepts you’ve learned in class, such as a
 Create a virtual environment and install the necessary dependencies for your project:
 
 ```bash
-pip install fastapi uvicorn sqlalchemy psycopg2-binary pydantic passlib pyjwt
+pip install fastapi uvicorn sqlalchemy psycopg2-binary pydantic passlib bcrypt pyjwt
 pip install pytest starlette httpx
 ```
 
