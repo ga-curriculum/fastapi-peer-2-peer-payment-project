@@ -39,8 +39,8 @@ Estimated completion time is around **15 hours**.
 
 ### Course landing pages
 
-- [APD - Advanced Python for Developers](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/fastapi-peer-2-peer-payment-project/canvas-landing-pages/apd.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/fastapi-peer-2-peer-payment-project/canvas-landing-pages/fallback.html)
+- [APD - Advanced Python for Developers](https://ga-curriculum.github.io/fastapi-peer-2-peer-payment-project/canvas-landing-pages/apd.html)
+- [Fallback](https://ga-curriculum.github.io/fastapi-peer-2-peer-payment-project/canvas-landing-pages/fallback.html)
 
 ### Resources
 
@@ -52,4 +52,4 @@ Estimated completion time is around **15 hours**.
 
 ---
 
-**Find a 👾 bug 👾 or have suggestions? [Let us know](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/module-feedback.html)!**
+**Find a 👾 bug 👾 or have suggestions? [Let us know](https://ga-curriculum.github.io/universal-resources-internal/module-feedback.html)!**
